@@ -7,7 +7,7 @@
 //
 
 struct KeyCenter {
-    static let AppId: String = "f6076d4c249b4885bf74cbbcd7dc411b";
+    static let AppId: String = "YOUR_APP_ID";
     
     // assign token to nil if you have not enabled app certificate
     static var Token: String? = nil;
